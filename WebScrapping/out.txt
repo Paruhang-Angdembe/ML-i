@@ -1,1 +1,0 @@
-Linear regression is a typical regression algorithm that is responsible for numeric prediction. It is distinct to classification models — such as decision tree, support vector machine or neural network. In a nutshell, a linear regression finds the optimal linear relationship between independent variables and dependent variables, then makes prediction accordingly.
